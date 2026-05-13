@@ -92,13 +92,6 @@ Iris-Flower-ML-Flask/
 └── static/             # CSS / JS assets
 ```
 
-## Screenshots
-
-| Screenshot | Description |
-|------------|-------------|
-| _(screenshot placeholder)_ | Input form — enter four flower measurements |
-| _(screenshot placeholder)_ | Prediction result — Iris species name |
-
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
